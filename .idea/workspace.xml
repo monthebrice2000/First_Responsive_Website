@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:ess" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b15cfdc7-f104-421d-a3ed-6e9d32b17e54" name="Default Changelist" comment="fixup! Implementation of the menu section" />
+    <list id="3787871b-be2e-4283-86c7-9c9ece3dbbe3" name="Implementation of the menu section" comment="">
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/css/font_awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/img/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/img/monthe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/img/profil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/img/reseau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/js/font_awesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scarlett Portfolio Website/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Popup Login User/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Popup Login User/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Popup Login User/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Popup Login User/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Popup Login User/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Popup Login User/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mon_contre_stress/BDD/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mon_contre_stress/BDD/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mon_contre_stress/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mon_contre_stress/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3d832aac8b8fada4c34bc02921bd84371afd3243" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="KEEP" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="22bI0CK58GeBGdmcakREcagVfus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\HtmlCssProjects\First_Responsive_Website\img\icons" />
+      <recent name="D:\Projects\HtmlCssProjects\First_Responsive_Website" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b15cfdc7-f104-421d-a3ed-6e9d32b17e54" name="Default Changelist" comment="" />
+      <changelist id="3787871b-be2e-4283-86c7-9c9ece3dbbe3" name="Implementation of the menu section" comment="" />
+      <created>1640099634331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640099634331</updated>
+      <workItem from="1640099635709" duration="1590000" />
+      <workItem from="1640102512231" duration="16948000" />
+      <workItem from="1640135540817" duration="640000" />
+      <workItem from="1640136334586" duration="169000" />
+    </task>
+    <task id="LOCAL-00001" summary="Implementation of the menu section">
+      <created>1640134606181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640134606181</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implementation of the menu section">
+      <created>1640134707538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640134707538</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;Implementation of the menu section&quot;&#10;&#10;This reverts commit 3d832aac">
+      <created>1640134819747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640134819747</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixup! Implementation of the menu section">
+      <created>1640136427203</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640136427203</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="ess" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Implementation of the menu section" />
+    <MESSAGE value="Revert &quot;Implementation of the menu section&quot;&#10;&#10;This reverts commit 3d832aac" />
+    <MESSAGE value="fixup! Implementation of the menu section" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixup! Implementation of the menu section" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="0" key="CommitChangelistDialog2" timestamp="1640135621167">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="343" y="0" key="CommitChangelistDialog2/0.0.1536.802@0.0.1536.802" timestamp="1640135621167" />
+    <state x="93" y="93" width="1350" height="617" key="DiffContextDialog" timestamp="1640136131764">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="93" y="93" width="1350" height="617" key="DiffContextDialog/0.0.1536.802@0.0.1536.802" timestamp="1640136131764" />
+    <state x="549" y="143" key="FileChooserDialogImpl" timestamp="1640136496259">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="549" y="143" key="FileChooserDialogImpl/0.0.1536.802@0.0.1536.802" timestamp="1640136496259" />
+    <state x="602" y="122" key="RollbackChangesDialog" timestamp="1640135360420">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="602" y="122" key="RollbackChangesDialog/0.0.1536.802@0.0.1536.802" timestamp="1640135360420" />
+    <state x="277" y="47" key="SettingsEditor" timestamp="1640136172611">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="277" y="47" key="SettingsEditor/0.0.1536.802@0.0.1536.802" timestamp="1640136172611" />
+    <state x="618" y="316" key="VCS.ChangelistChooser" timestamp="1640136082550">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="618" y="316" key="VCS.ChangelistChooser/0.0.1536.802@0.0.1536.802" timestamp="1640136082550" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1640136464698">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.802@0.0.1536.802" timestamp="1640136464698" />
+    <state x="578" y="136" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1640134637576">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="578" y="136" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.802@0.0.1536.802" timestamp="1640134637576" />
+  </component>
+</project>
